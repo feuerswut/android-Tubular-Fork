@@ -39,8 +39,8 @@ configure<ApplicationExtension> {
     namespace = "org.schabi.newpipe"
 
     defaultConfig {
-        applicationId = "org.polymorphicshade.tubular"
-        resValue("string", "app_name", "Tubular")
+        applicationId = "de.feuerswut.tubularfork"
+        resValue("string", "app_name", "Tubular-Fork")
         minSdk = 21
         targetSdk = 35
 
